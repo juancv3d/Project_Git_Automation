@@ -1,5 +1,5 @@
 # Project_Git_Automation
-This repo automate the process of creating a new project in your computer, automating the creation of the local repository and the reomete repository, after that it will connect it, create the README.md file and generate the first commit. 
+This repo automate the process of creating a new project in your computer, automating the creation of the local repository and the remote repository, after that it will connect it, create the README.md file and generate the first commit. 
 ### Install: 
 ```bash
 git clone "https://github.com/juancv3d/Project_Git_Automation.git"
