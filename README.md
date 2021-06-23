@@ -15,5 +15,5 @@ pip install -r requirements.txt
 To run this script first you have to copy the bash function to ~/.zshrc or ~/.bashrc, change the project folder directory and create an envioremnt variable to store your Github API keys. Finally just type this command in your shell.
 
 ```bash
-'create <name of your folder>'
+'create <name of the new repo>'
 ```
