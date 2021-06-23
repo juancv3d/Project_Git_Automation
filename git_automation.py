@@ -23,7 +23,7 @@ def get_argument():
 
 
 def create_repo(new_repo):
-    """ With this function we can access the Github API and after log in usisng the token we can interact and create
+    """ With this function we can access the Github API and after log in using the token we can interact and create
         a new repo using the folder name provided by the user
 
     Args:
