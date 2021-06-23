@@ -12,7 +12,7 @@ def get_argument():
     """
     # We create an object of argparse
     parser = argparse.ArgumentParser()
-    # We can now store values in interface and new_mac and provide help for the user if needed
+    # We can now store values in repo and provide help for the user if needed
     parser.add_argument("-r", "--repo", dest="repo",
                         help="the name of the new repositorie")
 
