@@ -1,4 +1,5 @@
 # Project_Git_Automation
+https://img.shields.io/badge/platform-Linux-red
 This repo automate the process of creating a new project in your computer, automating the creation of the local repository and the remote repository, after that it will connect it, create the README.md file and generate the first commit. 
 ### Install: 
 ```bash
