@@ -4,11 +4,11 @@
 function create(){ 
   cd 
   python3 git_automation.py -r $1
-  cd /mnt/c/Users/juanc/Documents/Python_Projects
+  cd /path/to/your/project
   mkdir $1
   cd $1
   git init
-  git remote add origin git@github.com:juancv3d/$1.git
+  git remote add origin git@github.com:<username>/$1.git
   echo '#' $1 >> README.md
   git add README.md
   git commit -m "Initial commit"
